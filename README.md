@@ -25,9 +25,9 @@ Whatever text entered in textarea the same content copied to p tag
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://pure-js-age-calculator.netlify.app/)
+[Live Link !](https://see-what-you-type-js.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/blob/2fa3d5c6fe9feb081092f2bc91466a05ee5dc468/image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/see-what-you-type/blob/Javascript-projects/Image/demo.PNG)
 
